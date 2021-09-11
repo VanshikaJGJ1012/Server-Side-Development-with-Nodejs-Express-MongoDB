@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "mongo",
   "version": "1.0.0",
   "description": "Node mongo",
+=======
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Node Express Examples",
+>>>>>>> 224befba4849777b5c8c1b34db61805da8f713c5
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +16,15 @@
   "author": "Vanshika Pahwa",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "assert": "^1.4.1",
     "mongodb": "^3.0.10"
   }
 }
+=======
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
+>>>>>>> 224befba4849777b5c8c1b34db61805da8f713c5
