@@ -1,7 +1,19 @@
 {
+<<<<<<< HEAD
+  "name": "node-mongoose",
+  "version": "1.0.0",
+  "description": "",
+=======
+<<<<<<< HEAD
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "Node mongo",
+=======
   "name": "node-express",
   "version": "1.0.0",
   "description": "Node Express Examples",
+>>>>>>> 224befba4849777b5c8c1b34db61805da8f713c5
+>>>>>>> a8c93647066bfe87b9c8f202f487d85c5f1c0c77
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,8 +22,21 @@
   "author": "Vanshika Pahwa",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
+    "mongoose": "^5.1.7"
+  }
+}
+=======
+<<<<<<< HEAD
+    "assert": "^1.4.1",
+    "mongodb": "^3.0.10"
+  }
+}
+=======
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "morgan": "^1.9.0"
   }
 }
+>>>>>>> 224befba4849777b5c8c1b34db61805da8f713c5
+>>>>>>> a8c93647066bfe87b9c8f202f487d85c5f1c0c77
